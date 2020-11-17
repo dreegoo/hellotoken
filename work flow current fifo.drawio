@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T04:25:24.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="Gm5CFcajXMEqHxgjq1OA" version="13.9.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-17T04:26:01.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="4rqL-GwCml8di20DE4PB" version="13.9.7" type="github" pages="5">
   <diagram name="Current" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -870,7 +870,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wi2PgkOibvrjCHJBKqp8-13" value="Get PO confirm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=14;" edge="1" parent="Wi2PgkOibvrjCHJBKqp8-5" source="Wi2PgkOibvrjCHJBKqp8-7" target="Wi2PgkOibvrjCHJBKqp8-8">
+        <mxCell id="Wi2PgkOibvrjCHJBKqp8-13" value="Get PO confirm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=14;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="Wi2PgkOibvrjCHJBKqp8-5" source="Wi2PgkOibvrjCHJBKqp8-7" target="Wi2PgkOibvrjCHJBKqp8-8">
           <mxGeometry x="-0.0667" y="-23" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
