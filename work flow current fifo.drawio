@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T09:45:02.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="-m3HVaXUxgFHy7VXaPML" version="13.9.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-17T10:22:51.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="7nYp8yoQGpw4tEdJR2wM" version="13.9.7" type="github" pages="6">
   <diagram name="Current" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="CURRENT WORK FLOW&amp;nbsp;" style="swimlane;html=1;childLayout=stackLayout;startSize=27;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=22;align=center;" parent="1" vertex="1">
-          <mxGeometry x="26" y="40" width="1062" height="574" as="geometry" />
+          <mxGeometry x="26" y="40" width="1060" height="574" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="MFG" style="swimlane;html=1;startSize=43;fontSize=20;align=center;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="27" width="113" height="547" as="geometry" />
